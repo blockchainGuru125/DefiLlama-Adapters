@@ -6,16 +6,17 @@ const { getBlock } = require('../helper/getBlock');
 
 const hectorStakingv1 = "0x9ae7972BA46933B3B20aaE7Acbf6C311847aCA40"
 const hectorStakingv2 = "0xD12930C8deeDafD788F437879cbA1Ad1E3908Cc5"
-const hec = "0x5C4FDfc5233f935f20D2aDbA572F770c2E377Ab0"
-const hecDaiSLP = "0xbc0eecdA2d8141e3a26D2535C57cadcb1095bca9"
 const treasury = "0xCB54EA94191B280C296E6ff0E37c7e76Ad42dC6A"
 const dai = "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e"
 const ftm = "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83"
-const hecUsdcLP = "0xd661952749f05acc40503404938a91af9ac1473b"
-const gohmLP = "0xde13DD3BCA9CBac23F46e5C587b48320F5f5c483"
 const usdc = "0x04068da6c83afcfa0e13ba15a6696662335d5b75"
 const mim = "0x82f0b8b456c1a451378467398982d4834b6829c1"
 const frax = "0xdc301622e621166bd8e82f2ca0a26c13ad0be355"
+const hec = "0x5C4FDfc5233f935f20D2aDbA572F770c2E377Ab0"
+
+const hecDaiSLP = "0xbc0eecdA2d8141e3a26D2535C57cadcb1095bca9"
+const hecUsdcLP = "0xd661952749f05acc40503404938a91af9ac1473b"
+const gohmLP = "0xde13DD3BCA9CBac23F46e5C587b48320F5f5c483"
 const fraxLp = "0x0f8D6953F58C0dd38077495ACA64cbd1c76b7501"
 
 const HectorStakings = [
