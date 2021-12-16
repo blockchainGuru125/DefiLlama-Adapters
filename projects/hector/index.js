@@ -20,9 +20,7 @@ const gohmLP = "0xde13DD3BCA9CBac23F46e5C587b48320F5f5c483"
 const fraxLp = "0x0f8D6953F58C0dd38077495ACA64cbd1c76b7501"
 
 const HectorStakings = [
-  // V1
   hectorStakingv1,
-  // V2
   hectorStakingv2,
 ];
 
